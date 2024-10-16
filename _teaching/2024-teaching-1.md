@@ -2,9 +2,9 @@
 title: "Science des données 3"
 collection: teaching
 type: "Licence 3"
-permalink: /teaching/2023-2024-teaching-1
+permalink: /teaching/2024-teaching-1
 venue: "Département MIAp - Mathématiques et informatique appliquées"
-date: 2023-2024
+date:2024
 location: "Montpellier, France"
 ---
 
