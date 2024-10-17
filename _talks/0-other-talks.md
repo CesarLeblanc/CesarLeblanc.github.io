@@ -1,4 +1,10 @@
-## Other talks
+---
+title: "Other talks"
+permalink: /talks/0-other-talks
+location:
+  - "Montpellier, France"
+  - "Paris, France"
+---
 
 In addition to the talks mentioned above, I also had the opportunity to present my work in smaller events of national scale:
 Here is a list of some of them:
